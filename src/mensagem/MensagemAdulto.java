@@ -4,6 +4,7 @@ import control.LimiteIMC;
 import control.TipoMensagem;
 import imc.MensagemFactory;
 
+//MensagemFactory
 public class MensagemAdulto implements MensagemFactory {
 	private double imc;
 	private LimiteIMC limite;
