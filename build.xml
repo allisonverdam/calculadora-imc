@@ -15,7 +15,7 @@
 	    </classpath>    
 	    <batchtest>
 	       <fileset dir="src">
-	            <include name="**/*Test*" />
+	            <include name="tests/*Test*" />
 	       </fileset>
 	    </batchtest>
 	    <formatter type="brief" usefile="false"/>
